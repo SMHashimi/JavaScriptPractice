@@ -1,2 +1,3 @@
 ## Anchor Elements
-![Screenshot 2024-11-08 183701](https://github.com/user-attachments/assets/fd8572a3-475e-4a0d-9c7f-90be9a728f7b)
+
+![Screenshot 2024-11-08 184338](https://github.com/user-attachments/assets/1da52151-10c9-4926-a48c-994fa2f7e2e3)
