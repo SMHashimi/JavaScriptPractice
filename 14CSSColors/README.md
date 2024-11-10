@@ -1,2 +1,2 @@
 ## CSS Colors
-![CSSSelector](https://github.com/user-attachments/assets/43e140cc-e5e6-4d04-aa34-2828b50ce93e)
+![CSSColors](https://github.com/user-attachments/assets/021a8b05-87ca-4709-817a-7531ea9f9746)
