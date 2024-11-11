@@ -3,36 +3,60 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>CSS Properties</title>
+  <title>CSS Box Model</title>
   <style>
-    body {
-      background-color: cornflowerblue;
-      color: white;
-      font-size: 18px;
+    /* Write your CSS code here */
+    div {
+      height: 200px;
+      width: 200px;
     }
 
-    /* Don't change the CSS above, add Your CSS below */
+    p {
+      margin: 0;
+    }
 
-    
+    #firstbox {
+      background-color: cadetblue;
+      padding: 20px;
+      border: 10px solid black;
+    }
+
+    #secondbox {
+      background-color: gold;
+      border: solid black;
+      border-width: 20px 10px;
+      margin-left: 260px;
+      padding: 10px;
+
+    }
+
+    #thirdbox {
+      background-color: indianred;
+      border: 10px solid black;
+      margin-left: 20px;
+      padding: 10.5px;
+    }
+
   </style>
 </head>
 
 <body>
-  <h1>Important CSS Properties</h1>
-  <p>Color</p>
-  <p>Font Size</p>
-  <p>Font Weight</p>
-  <p>Font Family</p>
-  <p>Text Align</p>
-
-  <!-- TODOs
-  1. Change the color of <p>Color</p> to "coral" color.
-  2. Change the font size of <p>Font Size</p> to 2X the size of the root font size.
-  3. Change the font weight of <p>Font Weight</p> to 900.
-  4. Change the font family of <p>Font Family</p> to the Google font Caveat with regular (400) font weight.
-  Link: https://fonts.google.com/specimen/Caveat
-  5. Change the <p>Text Align</p> to right align.
-  6. Change the the root (html element) font size to 30px -->
+  <div id = "firstbox">
+    <p>This is Sayed Mubaris Hashimi, a student of 
+    computer science at the American University of Afghanistan. </p>
+  </div>
+  <div id =  "secondbox">
+    <p>
+      This knowledge area is about documenting how you plan to keep 
+      your stakeholders engaged and actually engaging them on the project
+    </p>
+  </div>
+  <div id = "thirdbox">
+    <p>
+      In the chapter "project stakeholder management," we went through
+      the processes of identifying, analyzing, and engaging stakeholders.
+    </p>
+  </div>
+  
 </body>
-
 </html>
