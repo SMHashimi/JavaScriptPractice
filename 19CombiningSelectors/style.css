@@ -1,0 +1,35 @@
+
+/* it can be different categories (class, attribute, id, universal) */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* inheritance (parent and child): it must one level down (not granchild) */
+/* the div has two children (p and ul - see index.html) */
+/* the example below is the direct child combinator */
+/* the example makes only (Do these things) firebrick */
+
+div > p {
+    color: firebrick;
+}
+
+/* the below combinator will make all the chilren of div firebrick */
+/* the example below will make both (Do these things today!) and (Hi, sayed. How are you feeling today?) firebrick */
+/* div p {
+    color: firebrick;
+} */
+
+/* check the index first ul. We use class as we have other ul at the bottom. */
+.list li {
+    color: blue;
+}
+
+/* Chaining */
+/* It is an  ordinal process, meaning that you cannot type .done first then li as li is the parent.*/
+li.done {
+    color: seagreen;
+}
+
+ul p.done {
+    font-size: 0.5rem;
+}
