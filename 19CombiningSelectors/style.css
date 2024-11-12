@@ -15,6 +15,7 @@ div > p {
 
 /* the below combinator will make all the chilren of div firebrick */
 /* the example below will make both (Do these things today!) and (Hi, sayed. How are you feeling today?) firebrick */
+
 /* div p {
     color: firebrick;
 } */
