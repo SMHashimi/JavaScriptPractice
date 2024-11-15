@@ -1,0 +1,23 @@
+p {
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+}
+
+li {
+    list-style: none;
+}
+
+.container { 
+    padding: 15px;
+    background-color: gold;
+    display: flex;
+    gap: 20px;
+  }
+
+.box {
+    display: flex;
+    gap: 10px;
+    background-color: lightblue;
+    padding: 10px;
+}
