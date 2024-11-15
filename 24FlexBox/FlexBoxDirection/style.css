@@ -1,9 +1,8 @@
 .container {
-    color: white;
-    border: 5px solid gold;
-    display: inline-flex;
-    flex-direction: column;
-  }
+  display: inline-flex;
+  flex-direction: column;
+  border: 5px solid gold;
+}
 
   /*
 Select all the elements that are the direct
