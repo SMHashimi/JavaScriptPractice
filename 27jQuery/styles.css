@@ -1,0 +1,22 @@
+.big-title {
+    font-size: 5rem;
+    color: blue;
+    font-family: 'cursive';
+}
+
+
+.margin-50 {
+    margin: 50px;
+}
+
+.h1-alteration {
+    font-size: 2rem;
+    color: red;
+    font-family: 'Courier New';
+}
+
+.h2-alteration {
+    font-size: 6rem;
+    color: blueviolet;
+    font-weight: 100px;
+}
